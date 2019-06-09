@@ -13,9 +13,6 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Ignore sln File
-*.sln
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
